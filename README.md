@@ -1,2 +1,0 @@
-# WebPack Exercise
- 
